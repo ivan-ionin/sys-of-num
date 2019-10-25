@@ -75,6 +75,8 @@ class SystemOfNumeration {
             } else if ('string' === typeof set) {
                 if (undefined !== symbolsSets[set]) {
                     this._symbols = symbolsSets[set];
+                } else {
+                    this._symbols = set.split('');
                 }
             }
         }
