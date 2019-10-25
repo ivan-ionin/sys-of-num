@@ -1,0 +1,23 @@
+{
+  "name": "sys-of-num",
+  "version": "1.0.0",
+  "description": "System of numeration",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-ionin/sys-of-num.git"
+  },
+  "keywords": [
+    "Numeral",
+    "System"
+  ],
+  "author": "Ivan $. Ionin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-ionin/sys-of-num/issues"
+  },
+  "homepage": "https://github.com/ivan-ionin/sys-of-num#readme"
+}
